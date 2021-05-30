@@ -150,7 +150,7 @@
 
 ### a) determinar a competência necessária das pessoas que realizam trabalho sob o seu controle e que afeta o desempenho da segurança da informação;
 
-###  b) assegurar que essas pessoas são competentes, com base na educação, treinamento ou experiência apropriados;
+###  b) assegurar que essas pessoas são competentes, com base na educação, treinamento ou experiência apropriados;
 
 ###  c) onde aplicável, tomar ações para adquirir a competência necessária e avaliar a efi cácia das ações tomadas; e
 
