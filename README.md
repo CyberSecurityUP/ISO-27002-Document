@@ -2,7 +2,7 @@
 
 ## Liderança
 
-### 5.1 Liderança e comprometimento
+### Liderança e comprometimento
 
 - A Alta Direção deve demonstrar sua liderança e comprometimento em relação ao sistema de gestão 
 - da segurança da informação pelos seguintes meios:
